@@ -2,7 +2,7 @@
 
 I am a girl passionate about technology, I am a programming apprentice.
 
-- 🌱 I’m currently learning HTML.
+- 🌱 I’m currently learning HTML,CSS and JS.
 
 *Languages and Tools:*  
 
