@@ -10,5 +10,5 @@ I’m a girl passionate about technology and a programming apprentice.
 <code><img height="20"  src="https://cdn-icons-png.flaticon.com/512/919/919827.png"></code>
 <code><img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-<code><<img height="20" src="https://cdn-icons-png.flaticon.com/512/919/919826.png"></code>
+<code><img height="20" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg"></code>
