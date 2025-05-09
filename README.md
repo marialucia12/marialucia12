@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-I am a girl passionate about technology, I am a programming apprentice.
+I’m a girl passionate about technology and a programming apprentice.
+🌱 I’m currently learning:
+* HTML
+* CSS
+* Python
+* React
+* Power BI
 
-- 🌱 I’m currently learning HTML.
 
 *Languages and Tools:*  
 
