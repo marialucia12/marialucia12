@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I’m a girl passionate about technology and a programming apprentice.
-🌱 I’m currently learning:
-* HTML
-* CSS
-* Python
-* React
-* Power BI
+I’m a girl passionate about technology and a programming apprentice.                                                                                                                           
+I’m currently learning:
+🌱 HTML
+🌱 CSS
+🌱 Python
+🌱 React
+🌱 Power BI
 
 
 *Languages and Tools:*  
